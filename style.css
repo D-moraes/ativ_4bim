@@ -1,7 +1,39 @@
 .div1{
     width: 40px;
     height: 25px;
+    margin: 10px;
+    border: 2px solid rgb(0, 183, 255);
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div2{
+    width: 50px;
+    height: 35px;
     margin: 20px;
-    border: 2px solid #F00;
-    padding: 5px;
+    border: 2px solid rgb(255, 0, 179);
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div3{
+    width: 60px;
+    height: 45px;
+    margin: 30px;
+    border: 2px solid rgb(154, 77, 255);
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div4{
+    width: 70px;
+    height: 55px;
+    margin: 40px;
+    border: 2px solid rgb(255, 31, 68);
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
 }
